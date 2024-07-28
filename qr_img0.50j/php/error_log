@@ -1,0 +1,8 @@
+[16-May-2022 19:18:04 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int * string in /home4/improv58/allvz.com.br/qr/qr_img0.50j/php/qr_img.php:605
+Stack trace:
+#0 {main}
+  thrown in /home4/improv58/allvz.com.br/qr/qr_img0.50j/php/qr_img.php on line 605
+[16-May-2022 19:19:01 America/Fortaleza] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: int * string in /home4/improv58/allvz.com.br/qr/qr_img0.50j/php/qr_img.php:605
+Stack trace:
+#0 {main}
+  thrown in /home4/improv58/allvz.com.br/qr/qr_img0.50j/php/qr_img.php on line 605
